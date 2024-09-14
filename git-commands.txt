@@ -1,0 +1,64 @@
+ls -a
+   27  git status
+   28  git add testing.py
+   29  git status
+   30  git rm --cached
+   31  git rm --cached testing.py
+   32  git status
+   33  git add.
+   34  git add .
+   35  git status
+   36  ' git commit -m "addes testing files"
+
+
+"
+"
+:
+   37  git commit -m "added testing files"
+   38  git config --global user.email "shivkumarar4@gmail.com"
+   39  git config --global user.name "shiv"
+   40  git commit -m "added testing files"
+   41  git status
+   42  rm testing.py
+   43  git status
+   44  git restore testing.py
+   45  git status
+   46  git add git-commands.txt
+   47  git status
+   48  git commit -m "added git commands"
+   49  git statis
+   50  git status
+   51  git remote add origin git@github.com:username/github-workshop.git
+   52  git remote -v
+   53  git push origin master
+   54  git remote set-url origin
+   55  git remote set-url origin https://token@github.com/username/github-workshop.git
+   56  git remote -v
+   57  git push origin master
+   58  history
+   59  git status
+   60  git add git-commands.txt
+   61  git status
+   62  git commit -a "second commit for git-commands"
+   63  git commit -m "second commit for git-commands"
+   64  git push origin master
+   65  git status
+   66  git add git-commands.txt
+   67  git commit -m "third commit for git-comands"
+   68  git push origin master
+   69  git status
+   70  git add git-commands.txt
+   71  git commit -m "fouth commit for git-comands"
+   72  git push origin master
+   73  git add git-commands.txt
+   74  git commit -m "fifth commit for git-comands"
+   75  git push origin master
+   76  git rebase -i e2d7d1e997b84309986fc809782f47f9e828173c
+   77  git commit -amend
+   78  git commit --amend
+   79  git-command.txt
+   80* 
+   81  git commit --amend
+   82  git log
+   83  git reset --hard e2d7d1e997b84309986fc809782f47f9e828173c^
+   84  git log
