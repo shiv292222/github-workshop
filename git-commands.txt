@@ -62,3 +62,5 @@ ls -a
    82  git log
    83  git reset --hard e2d7d1e997b84309986fc809782f47f9e828173c^
    84  git log
+
+this is something new 
